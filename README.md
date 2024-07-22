@@ -1,2 +1,1 @@
-纪猫的Blog
-纪猫QQ：忘了
+Hello World
